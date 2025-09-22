@@ -23,3 +23,8 @@ A minimal, ready to use 2x4mm Mouse Bites footprint.
 9. Select the `Mouse-Bite-2mm-4mm` footprint from the list and add it to your design.
 10. Place the footprint on your PCB edge (Repeat placing untill all sides are covered sufficiently)
 
+### Placement Gudelines
+* **Clearance**: Ensure there is ample clearance (at least 2mm) around the mouse bites to prevent damage to components or traces during separation
+* **Even Distribution**: Place mouse bites evenly along the edges to provide uniform support across the panel
+* **Avoid Sensitive Areas**: Do not place mouse bites over vias, traces, mounting holes, or protruding components
+

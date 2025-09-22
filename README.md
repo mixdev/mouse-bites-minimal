@@ -8,9 +8,9 @@ A minimal, ready to use 2x4mm Mouse Bites footprint. No need of drawing or remov
 ![Alt text](./mouse-bites.png?raw=true "Mouse Bites on a PCB (rendering)")
 
 ### Why use mouse bites?
-* Cost-Effective: Panelization allows for multiple boards to be processed together, improving manufacturing efficiency. 
-* Easy Separation: The strategically placed holes create weak points, making it easy to snap boards apart by hand or with basic tools. 
-* Handles Complex Shapes: Mouse bites are a good alternative to V-scores when dealing with PCBs that have connectors sticking out or curved edges. 
+* **Cost-Effective**: Panelization allows for multiple boards to be processed together, improving manufacturing efficiency. 
+* **Easy Separation**: The strategically placed holes create weak points, making it easy to snap boards apart by hand or with basic tools. 
+* **Handles Complex Shapes**: Mouse bites are a good alternative to V-scores when dealing with PCBs that have connectors sticking out or curved edges. 
 
 ### How to use
 1. Download this repro

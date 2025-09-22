@@ -3,7 +3,14 @@ A minimal, ready to use 2x4mm Mouse Bites footprint. No need of drawing or remov
 
 **Panelization** allows multipele PCBs to be produced together reducing overall turnaround time. One of the ways to panelize a PCB is to use a technique called Mouse Bites. It is to create aseries of small, perforated tabs along the edges of the board - allows easy seperation by snapping apart the PCB by hand or basic snipping tools. It has an automatic edgecut which is compatible with 2mm drillbit that most fabrication houses use. This footprint is tested with KiCad 9. 
 
+
+
 ![Alt text](./mouse-bites.png?raw=true "Mouse Bites on a PCB (rendering)")
+
+### Why use mouse bites?
+* Cost-Effective: Panelization allows for multiple boards to be processed together, improving manufacturing efficiency. 
+* Easy Separation: The strategically placed holes create weak points, making it easy to snap boards apart by hand or with basic tools. 
+* Handles Complex Shapes: Mouse bites are a good alternative to V-scores when dealing with PCBs that have connectors sticking out or curved edges. 
 
 ### How to use
 1. Download this repro
@@ -13,6 +20,6 @@ A minimal, ready to use 2x4mm Mouse Bites footprint. No need of drawing or remov
 5. Select `Project Specific Libraries`
 6. Click on the folder icon  and select the `mouse-bites.pretty` folder and then `Open` and click `OK`
 7. In the `PCB editor`, press `A` to open up footprint list and in the search field type `mouse`
-8. Select the `mouse bite minimal` footprint from the list and add it to your design.
+8. Select the `Mouse-Bite-2mm-4mm` footprint from the list and add it to your design.
 9. Place the footprint on your PCB edge (Repeat placing untill all sides are covered sufficiently)
 

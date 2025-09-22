@@ -13,6 +13,6 @@ A minimal, ready to use 2x4mm Mouse Bites footprint. No need of drawing or remov
 5. Select `Project Specific Libraries`
 6. Click on the folder icon  and select the `mouse-bites.pretty` folder and then `Open`
 7. In the `PCB editor` click the footprint icon  and in the search field type `mouse`
-8. Select the mouse bite minimal from the list and add it to your design.
+8. Select the `mouse bite minimal` footprint from the list and add it to your design.
 9. Place the footprint on your PCB edge (Repeat placing untill all sides are covered sufficiently)
 

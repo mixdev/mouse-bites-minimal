@@ -1,7 +1,7 @@
 ### Mouse Bites Minimal
 A minimal, ready to use 2x4mm Mouse Bites footprint. 
 
-**Panelization** allows multiple PCBs to be produced together reducing the overall turnaround time. One of the ways to panelize a PCB is to use a technique called Mouse Bites. It is to create a series of small, perforated tabs along the edges of the board - allows easy seperation by snapping apart the PCB by hand or basic snipping tools. It has an automatic edgecut which is compatible with 2mm drillbit that most fabrication houses use. This footprint is tested with **KiCad 9**. 
+**Panelization** allows to produce multiple PCBS together, reducing the overall turnaround time and cost. One of the ways to panelize a PCB is to use a technique called Mouse Bites. It is to create a series of small, perforated tabs along the edges of the board - allows easy seperation by snapping apart the PCB by hand or basic snipping tools. It has an automatic edgecut which is compatible with 2mm drillbit that most fabrication houses use. This footprint is tested with **KiCad 9**. 
 
 
 
